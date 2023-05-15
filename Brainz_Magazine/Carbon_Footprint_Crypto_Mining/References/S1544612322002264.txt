@@ -1,0 +1,11 @@
+Samuel Asumadu Sarkodie, Maruf Yakubu Ahmed, Thomas Leirvik,
+Trade volume affects bitcoin energy consumption and carbon footprint,
+Finance Research Letters,
+Volume 48,
+2022,
+102977,
+ISSN 1544-6123,
+https://doi.org/10.1016/j.frl.2022.102977.
+(https://www.sciencedirect.com/science/article/pii/S1544612322002264)
+Abstract: The environmental sustainability of bitcoin is making waves in the empirical literature, yet, no study has thus far examined the financial determinants of bitcoin energy consumption and carbon footprint. Here, we use novel estimation methods comprising dynamic ARDL simulations and general-to-specific VAR to examine steady-state effects, cumulative impulse-response, and counterfactual shocks of bitcoin trade volume on bitcoin energy bitcoin carbon footprint to ensure genuine causal inferences. We observed an increase in bitcoin trade volume spur both carbon and energy footprint by 24% in the long-run, whereas a dynamic shock in trade volume escalates bitcoin energy and carbon footprint by 46.54%.
+Keywords: General-to-specific VAR; Granger causality; Steady-state effects; Bitcoin energy consumption; Bitcoin carbon footprint

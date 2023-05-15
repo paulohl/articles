@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Sun, Wei
+AU  - Jin, Haitao
+AU  - Jin, Fengjun
+AU  - Kong, Lingming
+AU  - Peng, Yihao
+AU  - Dai, Zhengjun
+PY  - 2022
+DA  - 2022/06/23
+TI  - Spatial analysis of global Bitcoin mining
+JO  - Scientific Reports
+SP  - 10694
+VL  - 12
+IS  - 1
+AB  - Bitcoin mining is not only the fundamental process to maintain Bitcoin network, but also the key linkage between the virtual cryptocurrency and the physical world. A variety of issues associated with it have been raised, such as network security, cryptoasset management and sustainability impacts. Investigating Bitcoin mining from a spatial perspective will provide new angles and empirical evidence with respect to extant literature. Here we explore the spatial distribution of Bitcoin mining through bottom-up tracking and geospatial statistics. We find that mining activity has been detected at more than 6000 geographical units across 139 countries and regions, which is in line with the distributed design of Bitcoin network. However, in terms of computing power, it has demonstrated a strong tendency of spatial concentration and association with energy production locations. We also discover that the spatial distribution of Bitcoin mining is dynamic, which fluctuates with diverse patterns, according to economic and regulatory changes.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-14987-0
+DO  - 10.1038/s41598-022-14987-0
+ID  - Sun2022
+ER  - 

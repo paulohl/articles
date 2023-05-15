@@ -1,0 +1,10 @@
+Alex de Vries, Ulrich Gallersdörfer, Lena Klaaßen, Christian Stoll,
+The true costs of digital currencies: Exploring impact beyond energy use,
+One Earth,
+Volume 4, Issue 6,
+2021,
+Pages 786-789,
+ISSN 2590-3322,
+https://doi.org/10.1016/j.oneear.2021.05.009.
+(https://www.sciencedirect.com/science/article/pii/S2590332221002906)
+Abstract: The digital currency Bitcoin is known for its energy hunger and associated carbon footprint. Investors, however, must not neglect further environmental, social, and governance issues related to digital currencies. Therefore, we urge the adoption of a more comprehensive view in assessing the externalities of investments in Bitcoin and other cryptocurrencies.
