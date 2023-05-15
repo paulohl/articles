@@ -1,1 +1,8 @@
-
+MSF TEAM MODEL V. 3.1
+HTTPS://DOI.ORG/10.6084/M9.FIGSHARE.22082381
+10.6084/M9.FIGSHARE.22082381
+Location:  Redmond, WA, USA
+Publisher:  2002 Microsoft Corporation. All rights reserved. Part Number: 602-i400a
+Organization: Microsoft Consulting Services (MCS), US Frameworks, Windows Engineering
+Publication Date:  Jun, 2002
+Publication Name:  Microsoft Solutions Framework Core White Papers
